@@ -4,10 +4,10 @@ title:  "Welcome to Jekyll!"
 date:   2018-11-23 20:00:32 +0900
 category: research
 author: Giselle Nodalo
-banner: /assets/png/trex-chiuxid.png
+# banner: /assets/png/trex-chiuxid.png
 banner-cap: Screenshot of the TREX prototype.
 banner-alt: TREX
-thumbnail: /assets/png/trex-chiuxid.png
+# thumbnail: /assets/png/trex-chiuxid.png
 thumbnail-alt: TREX
 abstract: This is a first blog post that is for testing purposes only.
 comments: TRUE

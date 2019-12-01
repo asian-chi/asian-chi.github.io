@@ -1,6 +1,6 @@
 # asian-chi.github.io hosted on GitHub Pages
 
-<!-- [![Build Status](https://travis-ci.com/dlsucomet/dlsucomet.github.io.svg?token=aXBso18Mo8NKPJy6Yfxs&branch=master)](https://travis-ci.com/dlsucomet/dlsucomet.github.io) -->
+[![Build Status](https://travis-ci.com/asian-chi/asian-chi.github.io.svg?branch=master)](https://travis-ci.com/asian-chi/asian-chi.github.io)
 
 This is the repository for the website of the Asian CHI Symposium. This is maintained by the symposium's Web Chair and is powered by [Jekyll](https://jekyllrb.com/). 
 
