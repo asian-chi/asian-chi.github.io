@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/asian-chi/asian-chi.github.io.svg?branch=master)](https://travis-ci.com/asian-chi/asian-chi.github.io)
 
-This is the repository for the website of the Asian CHI Symposium. This is maintained by the symposium's Web Chair and is powered by [Jekyll](https://jekyllrb.com/). 
+This is the repository for the website of the Asian CHI Symposium. This is maintained by the symposium's current Web Chair and is powered by [Jekyll](https://jekyllrb.com/). 
 
 ## Dependencies
 
@@ -31,8 +31,8 @@ $ gem install bundler jekyll
 Then, install the dependencies included in your `Gemfile` and `_config.yml`, and call `jekyll serve`:
 
 ```
-$ git clone https://github.com/dlsucomet/dlsucomet.github.io.git 
-$ cd dlsucomet.github.io/
+$ git clone https://github.com/asian-chi/asian-chi.github.io.git 
+$ cd asian-chi.github.io/
 $ bundle install
 $ bundle exec jekyll serve
 ```
