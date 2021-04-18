@@ -5,8 +5,8 @@ layout: main
 <div class="abstract">
     <div class="banner">
         <div class="latest-symposium">
-            <h4>Asian CHI Symposium 2020</h4>
-            <p>The 2020 edition will be at CHI 2020 in Hawai'i, USA.</p>
+            <h4>Asian CHI Symposium 2021</h4>
+            <p>The 2021 edition will be at CHI 2021 in Yokohama, Japan.</p>
         </div>
     </div>
     <p class="abstract-overview">
@@ -33,4 +33,4 @@ layout: main
     </ul>
 </div>
 
-> Photo by <a href="https://unsplash.com/@jarvisphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Braden Jarvis</a> on <a href="https://unsplash.com">Unsplash</a>.
+> Photo by <a href="https://unsplash.com/@shima_giraffe?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Nagatoshi Shimamura</a> on <a href="https://unsplash.com/s/photos/yokohama?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
